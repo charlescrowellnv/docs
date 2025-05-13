@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "evrywher",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#7f22fe",
+    "light": "#8e51ff",
+    "dark": "#7f22fe"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -84,7 +84,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://evrywher.com/dashboard"
     }
   },
   "footer": {
